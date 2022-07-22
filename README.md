@@ -8,6 +8,8 @@ Este script coleta perfis e senhas de wi-fi salvos em PC ou notebook que tenha-s
 - `Coleta senhas`
 - `Salva o resultado em formato JSON`
 - `Envia o resultado para um endpoint informado`
+- `Exibe o resultado`
+- Para utilizar estas funções, modifique as variáveis no começo do código como desejar
 
 ### :exclamation: Pré-requisitos
 
